@@ -1,1 +1,1 @@
-See http://cedana.ai for more information.
+See https://cedana.ai for more information.
